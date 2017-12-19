@@ -1,0 +1,6 @@
+[16-Dec-2017 08:44:33 UTC] PHP Warning:  include_once(pages/header.php): failed to open stream: No such file or directory in /home/tanahmzin/public_html/maxomus/pages/supplier.php on line 20
+[16-Dec-2017 08:44:33 UTC] PHP Warning:  include_once(): Failed opening 'pages/header.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/tanahmzin/public_html/maxomus/pages/supplier.php on line 20
+[17-Dec-2017 16:11:36 UTC] PHP Parse error:  syntax error, unexpected 'break' (T_BREAK) in /home/tanahmzin/public_html/maxomus/pages/supplier_product.php on line 38
+[17-Dec-2017 16:11:37 UTC] PHP Parse error:  syntax error, unexpected 'break' (T_BREAK) in /home/tanahmzin/public_html/maxomus/pages/supplier_product.php on line 38
+[17-Dec-2017 16:11:39 UTC] PHP Parse error:  syntax error, unexpected 'break' (T_BREAK) in /home/tanahmzin/public_html/maxomus/pages/supplier_product.php on line 38
+[17-Dec-2017 16:11:51 UTC] PHP Parse error:  syntax error, unexpected 'break' (T_BREAK) in /home/tanahmzin/public_html/maxomus/pages/supplier_product.php on line 38
